@@ -1,1 +1,1 @@
-# coding-solutions
+# Javascript and Python coding exercises (self)
